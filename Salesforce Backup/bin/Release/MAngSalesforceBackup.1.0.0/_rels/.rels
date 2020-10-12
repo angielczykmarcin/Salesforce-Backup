@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
-  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/MAngSalesforceBackup.nuspec" Id="RDD23CC24A720BDF7" />
-  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/f24ce0c0968f47f283edbdc3af50dc58.psmdcp" Id="R8A7FA07F6A80FEA3" />
-</Relationships>
