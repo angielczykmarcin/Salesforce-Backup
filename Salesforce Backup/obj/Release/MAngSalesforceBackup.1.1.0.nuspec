@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MAngSalesforceBackup</id>
+    <version>1.1.0</version>
+    <authors>Marcin Angielczyk</authors>
+    <owners>Marcin Angielczyk</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ma853722\source\repos\Salesforce Backup\Salesforce Backup\bin\Release\netcoreapp3.0\Salesforce Backup.dll" target="lib\netcoreapp3.0\Salesforce Backup.dll" />
+    <file src="C:\Users\ma853722\source\repos\Salesforce Backup\Salesforce Backup\bin\Release\MAngSalesforceBackup.1.0.0\license\license.txt" target="license.txt" />
+  </files>
+</package>
